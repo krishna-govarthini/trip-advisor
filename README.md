@@ -20,7 +20,7 @@ This project is a clone of the TripAdvisor website, created as part of the Full 
 
 ## Check It Out 🌐
 
-You can view the live site 
+You can view the live site [here](https://krishna-govarthini.github.io/tripadvisor-clone/). 
 
 Feel free to reach out if you encounter any issues or questions. ✉️
 
